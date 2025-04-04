@@ -1,2 +1,4 @@
 *.keras
 saved_model/
+tfjs_model/
+tflite/
