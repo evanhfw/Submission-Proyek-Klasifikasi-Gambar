@@ -1,0 +1,1 @@
+from .CNNImageClassifier import CNNImageClassifier
