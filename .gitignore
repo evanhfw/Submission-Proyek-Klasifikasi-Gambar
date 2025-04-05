@@ -2,3 +2,4 @@
 saved_model/
 tfjs_model/
 tflite/
+__pycache__/
